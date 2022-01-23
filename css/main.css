@@ -396,6 +396,7 @@ body{
     height: 90px;
     background: #ffffff;
     border: none;
+    opacity: 0.8;
 }
 .booking__frame--btn input::placeholder{
     padding-left: 40px;
